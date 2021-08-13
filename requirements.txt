@@ -1,0 +1,7 @@
+click==7.1.2
+executor==23.1
+imageio==2.9.0
+numpy==1.19.5
+pycocotools==2.0.2
+torch==1.7.1
+tqdm==4.46.0
