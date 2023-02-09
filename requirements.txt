@@ -3,5 +3,5 @@ executor==23.1
 imageio==2.9.0
 numpy==1.22.0
 pycocotools==2.0.2
-torch==1.7.1
+torch==1.13.1
 tqdm==4.46.0
